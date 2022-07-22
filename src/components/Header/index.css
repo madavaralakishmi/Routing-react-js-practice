@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.Arrange {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #551e53;
+  font-weight: 700;
+}
+
+.wave-arrange {
+  display: flex;
+}
+
+.img {
+  height: 30px;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-right: 7px;
+}
+
+.p {
+  color: #551e53;
+}
